@@ -23,3 +23,21 @@ h1 {
 p {
   margin: 0;
 }
+
+/* Media */
+.media {
+  display: flex;
+  align-items: center;
+}
+
+.media__image {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 100%;
+}
+
+.media__text {
+  font-weight: 700;
+  color: #000;
+  margin-left: 1.5rem;
+}
