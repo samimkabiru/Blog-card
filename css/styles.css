@@ -41,3 +41,13 @@ p {
   color: #000;
   margin-left: 1.5rem;
 }
+
+/* Badge */
+.badge {
+  display: inline-block;
+  color: #000;
+  font-weight: 700;
+  padding: 0.8rem 1.3rem;
+  background: hsl(47 88% 63%);
+  border-radius: 0.5rem;
+}
